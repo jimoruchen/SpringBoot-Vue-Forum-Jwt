@@ -2,7 +2,7 @@
   <div style="width: 100vw;height: 100vh;overflow: hidden;display: flex">
     <div style="flex: 1">
       <el-image style="width: 100%;height: 100%" fit="cover"
-                src="https://image.itbaima.cn/images/445/image-20240311003305383.jpeg"/>
+                src="https://s2.loli.net/2025/02/20/vKxXiCSsZN8WElL.jpg"/>
     </div>
     <div class="welcome-title">
       <div style="font-size: 30px;font-weight: bold">欢迎来到校园论坛系统</div>
